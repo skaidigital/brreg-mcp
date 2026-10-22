@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.skaidigital/norwegian-companies",
+  "description": "Norwegian company search, accounts, roles, groups and websites from Brønnøysund, remote MCP.",
+  "title": "Norwegian Company Data",
+  "version": "1.0.0",
+  "websiteUrl": "https://www.skaidigital.com",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://tools.skaidigital.com/brreg/mcp"
+    }
+  ]
+}

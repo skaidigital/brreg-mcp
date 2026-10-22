@@ -1,0 +1,10 @@
+{
+  "name": "brreg-mcp",
+  "version": "1.0.0",
+  "description": "Find and research Norwegian companies in the Brønnøysund registers: search, revenue, roles, groups, websites and their platform, such as Shopify.",
+  "mcpServers": {
+    "norwegian-companies": {
+      "httpUrl": "https://tools.skaidigital.com/brreg/mcp"
+    }
+  }
+}

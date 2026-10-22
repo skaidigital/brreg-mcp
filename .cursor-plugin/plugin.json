@@ -1,0 +1,21 @@
+{
+  "name": "norwegian-companies",
+  "displayName": "Norwegian Company Data",
+  "version": "1.0.0",
+  "description": "Find and research Norwegian companies in the Brønnøysund registers: search, revenue, roles, groups, websites and their platform, such as Shopify.",
+  "author": {
+    "name": "Skai Digital",
+    "url": "https://www.skaidigital.com"
+  },
+  "homepage": "https://github.com/skaidigital/brreg-mcp",
+  "repository": "https://github.com/skaidigital/brreg-mcp",
+  "license": "MIT",
+  "keywords": [
+    "norway",
+    "brreg",
+    "bronnoysund",
+    "company-data",
+    "prospecting",
+    "mcp"
+  ]
+}
